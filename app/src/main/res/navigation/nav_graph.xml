@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/splashFragment">
+
+
+    <include app:graph="@navigation/home_nav_graph" />
+    <include app:graph="@navigation/search_nav_graph" />
+    <include app:graph="@navigation/cart_nav_graph" />
+    <include app:graph="@navigation/categories_nav_graph" />
+    <include app:graph="@navigation/favorite_nav_graph" />
+    <include app:graph="@navigation/profile_nav_graph" />
+    <include app:graph="@navigation/onboarding_nav" />
+    <include app:graph="@navigation/detail_nav_graph" />
+    <include app:graph="@navigation/login_nav" />
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="com.selincengiz.econobazaar.presentation.SplashFragment"
+        android:label="fragment_splash"
+        tools:layout="@layout/fragment_splash" />
+</navigation>

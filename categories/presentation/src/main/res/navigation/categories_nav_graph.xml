@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/categories_nav_graph"
+    app:startDestination="@id/categoriesFragment">
+
+    <fragment
+        android:id="@+id/categoriesFragment"
+        android:name="com.selincengiz.categories.presentation.categories.CategoriesFragment"
+        android:label="CategoriesFragment" >
+        <action
+            android:id="@+id/categoriesToProduct"
+            app:destination="@id/categoriesProductFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/categoriesProductFragment"
+        android:name="com.selincengiz.categories.presentation.categories_product.CategoriesProductFragment"
+        android:label="CategoriesProductFragment" >
+        <argument
+            android:name="category"
+            app:argType="com.selincengiz.categories.domain.model.CategoryUI" />
+    </fragment>
+    <include app:graph="@navigation/search_nav_graph" />
+    <include app:graph="@navigation/detail_nav_graph" />
+</navigation>

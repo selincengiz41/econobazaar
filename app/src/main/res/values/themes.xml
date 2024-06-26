@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EconoBazaar" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimaryDark">@color/gray50</item>
+        <item name="colorPrimary">@color/gray900</item>
+    </style>
+
+    <style name="Theme.EconoBazaar" parent="Base.Theme.EconoBazaar" />
+</resources>

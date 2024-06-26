@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/category_btn"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_28sdp"
+            android:layout_margin="@dimen/_12sdp"
+            android:background="@null"
+            android:textAllCaps="false"
+            android:textAlignment="textStart"
+            android:drawableEnd="@drawable/ic_arrow"
+            android:fontFamily="@font/inter_semibold"
+            android:textColor="@color/gray900"
+            android:textSize="@dimen/_14ssp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="Audio" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="@dimen/_1sdp"
+            android:layout_marginTop="@dimen/_12sdp"
+            android:background="@color/gray200"
+            app:layout_constraintEnd_toEndOf="@+id/category_btn"
+            app:layout_constraintStart_toStartOf="@+id/category_btn"
+            app:layout_constraintTop_toBottomOf="@+id/category_btn" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>
