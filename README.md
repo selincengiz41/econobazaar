@@ -24,8 +24,8 @@ Discover a seamless shopping experience with our advanced e-commerce app. Browse
 
 ## 📽 Video 
 
-- https://github.com/selincengiz41/econobazaar/assets/60012262/de0d5ce3-f369-4847-9089-5811f77018b0
-  
+- https://github.com/selincengiz41/econobazaar/assets/60012262/376fc59f-34cb-4020-85bc-c725992079b8
+
 <br>
 
 ## :point_down: Structures 
