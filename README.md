@@ -4,23 +4,24 @@ Discover a seamless shopping experience with our advanced e-commerce app. Browse
 <!-- Screenshots -->
 ## 📸 Screenshots
 <p align="center">
-  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/c1ecc035-d7d8-4560-8355-9f1434b563f8" width="130" height="300"/>
-  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/1165f5a5-dc1e-42eb-b32f-4a920d223d40" width="130" height="300"/>
-  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/90b67049-71e7-4904-aa5b-7127c2efded9" width="130" height="300"/>
-  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/312277d0-bdbc-4a24-8546-80d01d7940eb" width="130" height="300"/>
-  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/904bfe88-4c15-4914-b8d1-61bd25d0635e" width="130" height="300"/>
-  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/0b93b3f2-72f4-4afb-a291-332079b20492" width="130" height="300"/>
-  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/52107c97-89b8-4829-bce5-bb805787f9c2" width="130" height="300"/>
-  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/68b6ebe9-3cc4-435e-8d98-369ffa430e19" width="130" height="300"/>
-  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/59b0f07b-07c7-4c75-a7c0-e55c5616eda8" width="130" height="300"/>
-  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/ee8c8a73-3e16-47d3-9c9f-2cf0dc5cfe81" width="130" height="300"/>
-  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/688e5086-db96-4f98-abf9-4dcbd743d6c9" width="130" height="300"/>
-  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/d105db24-7fb2-4d56-82ea-1197f8ce1679" width="130" height="300"/> 
-  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/62c91881-f159-4f0c-9304-89ecfb46cce5" width="130" height="300"/> 
-  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/cac33ddb-f619-4a14-a55c-b413b11ae4f9" width="130" height="300"/>
+  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/98946a20-0c2e-4348-8d41-b5d03ea12ae8" width="130" height="300"/>
+  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/fe5bfba7-08bb-44c2-9b48-42ecb4d61feb" width="130" height="300"/>
+  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/134f1da4-2510-4259-a483-e64512300a3c" width="130" height="300"/>
+  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/95c10e29-d987-43c5-9dd1-3b4bb2e1163d" width="130" height="300"/>
+  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/6de68034-3851-4d9b-89b1-650590e9e716" width="130" height="300"/>
+  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/0936b975-ae41-440f-bac2-efea47f20ef1" width="130" height="300"/>
+  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/8482e2ab-2b61-47e8-b41a-b88d55595754" width="130" height="300"/>
+  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/7707c331-7cd9-4926-91bb-743faeaaf21a" width="130" height="300"/>
+  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/0315614f-dfe4-4d03-9672-a107555024a5" width="130" height="300"/>
+  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/85010682-de01-4712-95b6-2053b7bc00b6" width="130" height="300"/>
+  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/c1176c8d-40cd-4904-8df6-e8c000868b32" width="130" height="300"/> 
+  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/b6561d41-3787-4ed7-8fad-2ad464e3232b" width="130" height="300"/>
+  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/28fd670e-ef09-4cee-91c6-2892131fd8f8" width="130" height="300"/> 
+  <img src="https://github.com/selincengiz41/econobazaar/assets/60012262/93b02824-49db-4cdf-9ed4-484d6af3d38d" width="130" height="300"/>
+
+
 
 </p>
-
 
 ## 📽 Video 
 
