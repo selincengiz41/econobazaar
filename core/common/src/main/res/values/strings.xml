@@ -52,5 +52,7 @@
     <string name="categories">Categories</string>
     <string name="add_cart">Add Cart</string>
     <string name="checkout">Checkout</string>
+    <string name="home">Home</string>
+    <string name="logout">Log Out</string>
 
 </resources>
